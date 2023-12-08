@@ -3,8 +3,11 @@
 
 Projects
 One-page Website - Irish Tours - my first website created using only HTML with embed youtube video.
+
 Academy Cinema - website created using HTML and Bootstrap.
+
 Space Station - created using HTML and CSS.
+
 Portfolio Website - created using HTML + CSS.
 
 
